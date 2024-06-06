@@ -1,0 +1,28 @@
+
+
+.netflixcard{
+    width: 300px;
+    border: 2px solid black;
+    margin-top: 50px;
+}
+
+.netflixcard img{
+    width: 300px;
+    height: 300px;
+}
+
+
+.card-content{
+    padding: 10px;
+}
+
+.card-content h2{
+    padding: 0px;
+    margin: 0px;
+    background-color: red;
+}
+
+.card-content p{
+    margin: 10px 0px;
+    font-size: 12px;
+}

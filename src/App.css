@@ -1,0 +1,19 @@
+*{
+  background-color: rgb(240, 229, 216);
+}
+.App {
+  width: 90%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 10px;
+}
+
+@media (max-width: 900px) {
+  .App {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
+}
+
+
